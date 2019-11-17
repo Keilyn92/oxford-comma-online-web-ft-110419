@@ -1,3 +1,3 @@
 def oxford_comma
-  [].join
+  .join
 end
