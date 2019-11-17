@@ -1,3 +1,2 @@
-def oxford_comma["kiwi"]
-  
+def oxford_comma("kiwi")
 end
